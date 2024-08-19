@@ -1,4 +1,4 @@
-# APP Pokemo Favoritos
+# APP Pokemon Favoritos
 
 - [Preview page] (https://pokedexfavorito.netlify.app/)
 
